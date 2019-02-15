@@ -1,0 +1,70 @@
+/* Base */
+* {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+  text-align: center;
+}
+
+.menu-card {
+  box-sizing: border-box;
+  float: left;
+  margin-bottom: 20px;
+}
+
+.menu-card-content {
+  padding: 30px 10px 10px;
+  border: 1px solid black;
+  width: 90%;
+  margin-right: auto;
+  margin-left: auto;
+  position: relative;
+}
+
+.menu-card-title {
+  border: 1px solid black;
+  position: absolute;
+  right: 0px;
+  text-align: center;
+  top: 0px;
+  width: 15%;
+}
+
+.menu-card-title-1 {
+  background-color: springgreen;
+}
+
+.menu-card-title-2 {
+  background-color: gray;
+  color: white;
+}
+
+.menu-card-title-3 {
+  background-color: yellow;
+}
+
+
+/* Desktop */
+@media(min-width: 992px) {
+  .col-lg-4 {
+    width: 33%;
+  }
+}
+
+/* Tablet */
+@media(min-width: 768px) and (max-width: 991px) {
+  .col-md-6 {
+    width: 50%;
+  }
+
+  .col-md-12 {
+    width: 100%;
+  }
+}
+
+/* Cell phone */
+@media(max-width: 767px) {
+  .col-sm-12 {
+    width: 100%;
+  }
+}
