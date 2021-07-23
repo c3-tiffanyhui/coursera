@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-23T07:12:09.622Z" agent="5.0 (Macintosh)" etag="n8c9UFBGEILYmHxh-OM-" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-23T07:24:57.868Z" agent="5.0 (Macintosh)" etag="QSNEjTSq2nDrsKfTYvPr" version="14.4.9" type="github">
   <diagram id="CQyOexqPq6gr7FJSv8FF" name="Page-1">
-    <mxGraphModel dx="2444" dy="1886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2178" dy="1755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,6 +97,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="XGdDNyjExfLadk1-2Jc7-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XGdDNyjExfLadk1-2Jc7-24" target="XGdDNyjExfLadk1-2Jc7-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XGdDNyjExfLadk1-2Jc7-24" value="&lt;div&gt;PLANT JOURNAL&lt;/div&gt;&lt;div&gt;Entry1&lt;/div&gt;&lt;div&gt;Entry2&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;" vertex="1" parent="1">
           <mxGeometry x="-200" y="300" width="120" height="60" as="geometry" />
         </mxCell>
@@ -114,7 +117,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XGdDNyjExfLadk1-2Jc7-30" value="&lt;div&gt;CALENDAR&lt;br&gt;&lt;/div&gt;&lt;div&gt;Activity per plant (filterable)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;" vertex="1" parent="1">
+        <mxCell id="XGdDNyjExfLadk1-2Jc7-30" value="&lt;div&gt;CALENDAR&lt;/div&gt;&lt;div&gt;default to weekly&lt;br&gt;&lt;/div&gt;&lt;div&gt;Activity per plant (filterable)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;" vertex="1" parent="1">
           <mxGeometry x="65" y="450" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XGdDNyjExfLadk1-2Jc7-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XGdDNyjExfLadk1-2Jc7-34" target="XGdDNyjExfLadk1-2Jc7-17">
@@ -124,10 +127,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XGdDNyjExfLadk1-2Jc7-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XGdDNyjExfLadk1-2Jc7-34" target="XGdDNyjExfLadk1-2Jc7-51">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="335" y="385" />
+              <mxPoint x="515" y="385" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="XGdDNyjExfLadk1-2Jc7-34" value="HOME PAGE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="240" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="XGdDNyjExfLadk1-2Jc7-34" value="&lt;div&gt;HOME PAGE&lt;/div&gt;&lt;div&gt;My plants&lt;/div&gt;&lt;div&gt;Plants I follow&lt;/div&gt;&lt;div&gt;Gardeners I follow&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="230" y="295" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XGdDNyjExfLadk1-2Jc7-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XGdDNyjExfLadk1-2Jc7-41" target="XGdDNyjExfLadk1-2Jc7-43">
           <mxGeometry relative="1" as="geometry" />
@@ -162,6 +170,21 @@
         </mxCell>
         <mxCell id="XGdDNyjExfLadk1-2Jc7-54" value="&lt;div&gt;GARDENER PLANTS&lt;/div&gt;&lt;div&gt;Plant1&lt;/div&gt;&lt;div&gt;Plant2&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A1C0FF;" vertex="1" parent="1">
           <mxGeometry x="425" y="510" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XGdDNyjExfLadk1-2Jc7-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XGdDNyjExfLadk1-2Jc7-58" target="XGdDNyjExfLadk1-2Jc7-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XGdDNyjExfLadk1-2Jc7-58" value="&lt;div&gt;SHARE PLANT&lt;/div&gt;&lt;div&gt;Plant Species&lt;/div&gt;&lt;div&gt;Age&lt;/div&gt;&lt;div&gt;Link to Journal&lt;br&gt;&lt;/div&gt;&lt;div&gt;message&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF99B1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="170" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XGdDNyjExfLadk1-2Jc7-60" value="&lt;div&gt;POST HISTORY&lt;/div&gt;&lt;div&gt;Message1&lt;/div&gt;&lt;div&gt;Message2&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF99B1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XGdDNyjExfLadk1-2Jc7-62" value="&lt;div class=&quot;prompt caption-text color-secondary-text&quot; align=&quot;left&quot;&gt;&lt;div id=&quot;&quot; class=&quot;rc-CML styled show-soft-breaks&quot; dir=&quot;auto&quot;&gt;&lt;div&gt;&lt;p&gt;&lt;b&gt;Write your app’s name and tagline.&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;body-1-text scrollable&quot; align=&quot;left&quot;&gt;&lt;span class=&quot;rc-PlainTextView&quot;&gt;&lt;p class=&quot;body-1-text&quot; style=&quot;overflow-wrap: break-word&quot;&gt;Garden Homie&lt;br&gt;Seed. Ask. Learn.&lt;/p&gt;&lt;/span&gt;&lt;div class=&quot;prompt caption-text color-secondary-text&quot;&gt;&lt;div id=&quot;&quot; class=&quot;rc-CML styled show-soft-breaks&quot; dir=&quot;auto&quot;&gt;&lt;div&gt;&lt;p&gt;&lt;b&gt;Write a short paragraph describing your app. Make sure to mention what the app does and what problem it solves.&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;body-1-text scrollable&quot;&gt;&lt;div&gt;&lt;span&gt;&lt;p&gt;Do you have plants at home and arent sure if youre taking care of it correctly? &lt;/p&gt;&lt;p&gt;Garden&lt;br&gt; Homie gives home gardeners the opportunity to document, share, and &lt;br&gt;learn. Home gardeners can document their plants&#39; progress and share that&lt;br&gt; progress with fellow gardeners. Your plant&#39;s journal can include the &lt;br&gt;watering schedule, amount of light received, and photo updates. When &lt;br&gt;your green thumb isnt shining through, gardeners can publish their plant&lt;br&gt; journal to receive tips and advice - this gives more experienced &lt;br&gt;gardeners a historical view so that they can give more directed advice. &lt;br&gt;Gardeners who want to follow plants similar to their own can easily find&lt;br&gt; other plant journals or contact the gardener for conversation. &lt;br&gt;&lt;/p&gt;&lt;/span&gt;&lt;div class=&quot;prompt caption-text color-secondary-text&quot;&gt;&lt;div id=&quot;&quot; class=&quot;rc-CML styled show-soft-breaks&quot; dir=&quot;auto&quot;&gt;&lt;div&gt;&lt;p&gt;&lt;b&gt;Describe four specific functions that your app will do. List these ideas in order of importance, with the first idea being the most important. &lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;body-1-text scrollable&quot;&gt;&lt;div&gt;&lt;span&gt;&lt;p&gt;* Share plant progress and pictures to get tips and advice&lt;/p&gt;&lt;p&gt;*&lt;br&gt; Document plant&#39;s progress - amount of water given, upload picture, etc.&lt;br&gt; App will also use Location to record the day&#39;s weather for outdoor &lt;br&gt;plants (ex: hot &amp;amp; sunny, rainy &amp;amp; cloudy)&lt;/p&gt;&lt;p&gt;* Follow other &lt;br&gt;plants that are on same timeline as your plant (follow plants that were &lt;br&gt;planted or sprouted at the same time as yours)&lt;/p&gt;&lt;p&gt;* Contact others growing the same plant&lt;/p&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;span class=&quot;rc-PlainTextView&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-825" y="-580" width="800" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="XGdDNyjExfLadk1-2Jc7-63" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div class=&quot;prompt caption-text color-secondary-text&quot;&gt;&lt;div id=&quot;&quot; class=&quot;rc-CML styled show-soft-breaks&quot; dir=&quot;auto&quot;&gt;&lt;div&gt;&lt;p&gt;&lt;b&gt;List&lt;br/&gt; 4 potential roles that are a part of your initial user target group. &lt;br/&gt;Then, expand on one of the roles with a detailed profile description of &lt;br/&gt;one of these potential users. &lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;body-1-text scrollable&quot;&gt;&lt;div&gt;&lt;span&gt;&lt;p&gt;Fledging home gardener, Eco conscious, Proactive learner, social&lt;/p&gt;&lt;p&gt;Amy,&lt;br&gt; 25, composts when possible, takes online courses and enjoys cooking for&lt;br&gt; friends. Recently started growing herbs in her small apartment.&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;prompt caption-text color-secondary-text&quot; align=&quot;left&quot;&gt;&lt;div id=&quot;&quot; class=&quot;rc-CML styled show-soft-breaks&quot; dir=&quot;auto&quot;&gt;&lt;div&gt;&lt;p&gt;&lt;b&gt;Come up with 4 client/designer goals for your app design. You don&#39;t have to assign these to a category (political, social, etc). List your goals in order of importance, with the first goal being the most important. &lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;body-1-text scrollable&quot; align=&quot;left&quot;&gt;&lt;div&gt;&lt;span&gt;&lt;p&gt;Encourage gardening in any space&lt;/p&gt;&lt;p&gt;Provide a useful app&lt;/p&gt;&lt;p&gt;Build community&lt;/p&gt;&lt;p&gt;Partner with local nurseries&lt;/p&gt;&lt;/span&gt;&lt;div class=&quot;prompt caption-text color-secondary-text&quot;&gt;&lt;div id=&quot;&quot; class=&quot;rc-CML styled show-soft-breaks&quot; dir=&quot;auto&quot;&gt;&lt;div&gt;&lt;p&gt;&lt;b&gt;Name and briefly describe 3 existing apps that are similar to your app idea.&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;body-1-text scrollable&quot;&gt;&lt;div&gt;&lt;span&gt;&lt;p&gt;&quot;Plant Journal&quot; - keep track of your plants health in your garden and get reminder to water them&lt;/p&gt;&lt;p&gt;&quot;Gardenize&quot; - Garden diary / journal for your photos and notes about your plants and garden work &lt;/p&gt;&lt;p&gt;&quot;Hedira: Plants are for life&quot; - Hedira gives you smart plant caree advice and keepss your houseplants alive! &lt;/p&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="-500" width="810" height="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
