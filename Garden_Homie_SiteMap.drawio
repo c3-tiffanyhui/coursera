@@ -1,1 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2021-07-23T01:19:06.880Z" agent="5.0 (Macintosh)" version="14.4.9" etag="3RpklpROK2ANhI7KoExI" type="github"><diagram id="CQyOexqPq6gr7FJSv8FF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-23T01:47:02.515Z" agent="5.0 (Macintosh)" etag="PVuQ4GOuJPJQzRNdB3u4" version="14.4.9" type="github">
+  <diagram id="CQyOexqPq6gr7FJSv8FF" name="Page-1">
+    <mxGraphModel dx="2444" dy="1886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XGdDNyjExfLadk1-2Jc7-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XGdDNyjExfLadk1-2Jc7-1" target="XGdDNyjExfLadk1-2Jc7-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XGdDNyjExfLadk1-2Jc7-1" value="(auto) login" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1CFF51;" vertex="1" parent="1">
+          <mxGeometry x="240" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XGdDNyjExfLadk1-2Jc7-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XGdDNyjExfLadk1-2Jc7-2" target="XGdDNyjExfLadk1-2Jc7-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XGdDNyjExfLadk1-2Jc7-2" value="sign up / log in" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1CFF51;" vertex="1" parent="1">
+          <mxGeometry x="240" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XGdDNyjExfLadk1-2Jc7-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XGdDNyjExfLadk1-2Jc7-3" target="XGdDNyjExfLadk1-2Jc7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XGdDNyjExfLadk1-2Jc7-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XGdDNyjExfLadk1-2Jc7-3" target="XGdDNyjExfLadk1-2Jc7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XGdDNyjExfLadk1-2Jc7-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XGdDNyjExfLadk1-2Jc7-3" target="XGdDNyjExfLadk1-2Jc7-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XGdDNyjExfLadk1-2Jc7-3" value="&lt;div&gt;name / password &lt;br&gt;&lt;/div&gt;&lt;div&gt;google&lt;/div&gt;&lt;div&gt;facebook&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1CFF51;" vertex="1" parent="1">
+          <mxGeometry x="440" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XGdDNyjExfLadk1-2Jc7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="XGdDNyjExfLadk1-2Jc7-4" target="XGdDNyjExfLadk1-2Jc7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XGdDNyjExfLadk1-2Jc7-4" value="google log in" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1CFF51;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XGdDNyjExfLadk1-2Jc7-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XGdDNyjExfLadk1-2Jc7-5" target="XGdDNyjExfLadk1-2Jc7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XGdDNyjExfLadk1-2Jc7-5" value="facebook login" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1CFF51;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XGdDNyjExfLadk1-2Jc7-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XGdDNyjExfLadk1-2Jc7-6" target="XGdDNyjExfLadk1-2Jc7-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XGdDNyjExfLadk1-2Jc7-6" value="&lt;div&gt;user name&lt;/div&gt;&lt;div&gt;avatar&lt;br&gt;&lt;/div&gt;&lt;div&gt;name&lt;/div&gt;&lt;div&gt;address&lt;/div&gt;&lt;div&gt;favorite plant(s)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1CFF51;" vertex="1" parent="1">
+          <mxGeometry x="600" y="45" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XGdDNyjExfLadk1-2Jc7-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XGdDNyjExfLadk1-2Jc7-11" target="XGdDNyjExfLadk1-2Jc7-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XGdDNyjExfLadk1-2Jc7-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XGdDNyjExfLadk1-2Jc7-11" target="XGdDNyjExfLadk1-2Jc7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XGdDNyjExfLadk1-2Jc7-11" value="Garden Homie" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1CFF51;" vertex="1" parent="1">
+          <mxGeometry x="60" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XGdDNyjExfLadk1-2Jc7-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XGdDNyjExfLadk1-2Jc7-17" target="XGdDNyjExfLadk1-2Jc7-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XGdDNyjExfLadk1-2Jc7-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XGdDNyjExfLadk1-2Jc7-17" target="XGdDNyjExfLadk1-2Jc7-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XGdDNyjExfLadk1-2Jc7-17" value="&lt;div&gt;MY PLANTS&lt;/div&gt;&lt;div&gt;Plant1&lt;/div&gt;&lt;div&gt;Plant2&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XGdDNyjExfLadk1-2Jc7-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XGdDNyjExfLadk1-2Jc7-24" target="XGdDNyjExfLadk1-2Jc7-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XGdDNyjExfLadk1-2Jc7-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XGdDNyjExfLadk1-2Jc7-24" target="XGdDNyjExfLadk1-2Jc7-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XGdDNyjExfLadk1-2Jc7-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XGdDNyjExfLadk1-2Jc7-24" target="XGdDNyjExfLadk1-2Jc7-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XGdDNyjExfLadk1-2Jc7-24" value="&lt;div&gt;PLANT JOURNAL&lt;/div&gt;&lt;div&gt;Entry1&lt;/div&gt;&lt;div&gt;Entry2&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XGdDNyjExfLadk1-2Jc7-26" value="&amp;nbsp;&lt;br&gt;&lt;div&gt;OLD JOURNAL ENTRY&lt;br&gt;&lt;/div&gt;&lt;div&gt;Date&lt;/div&gt;&lt;div&gt;Weather&lt;/div&gt;&lt;div&gt;Activity&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="400" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XGdDNyjExfLadk1-2Jc7-28" value="&lt;div&gt;NEW JOURNAL ENTRY&lt;/div&gt;&lt;div&gt;Date (auto populated)&lt;br&gt;&lt;/div&gt;&lt;div&gt;Weather (auto populated)&lt;/div&gt;&lt;div&gt;Activity&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="30" y="400" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XGdDNyjExfLadk1-2Jc7-30" value="&lt;div&gt;CALENDAR&lt;br&gt;&lt;/div&gt;&lt;div&gt;Activity per plant (filterable)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="235" y="400" width="130" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
