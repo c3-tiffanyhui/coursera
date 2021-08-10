@@ -1,1 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2021-08-06T22:49:40.123Z" agent="5.0 (Macintosh)" version="14.9.2" etag="lp1Ql0BVLQ7qvI5HeR9_" type="github"><diagram id="3y8IMeQQLBMKS39X0-Pl">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-10T21:41:06.392Z" agent="5.0 (Macintosh)" etag="Fidq1vpvr3esoqh_2rwt" version="14.9.2" type="github">
+  <diagram id="3y8IMeQQLBMKS39X0-Pl" name="Page-1">
+    <mxGraphModel dx="1354" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KqeYSCqeXfv47A3uAvMD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KqeYSCqeXfv47A3uAvMD-2" target="KqeYSCqeXfv47A3uAvMD-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KqeYSCqeXfv47A3uAvMD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KqeYSCqeXfv47A3uAvMD-2" target="KqeYSCqeXfv47A3uAvMD-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KqeYSCqeXfv47A3uAvMD-2" value="EntityNodeHandler.deleteNodeActionsObservable" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KqeYSCqeXfv47A3uAvMD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KqeYSCqeXfv47A3uAvMD-3" target="KqeYSCqeXfv47A3uAvMD-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KqeYSCqeXfv47A3uAvMD-3" value="Fetch type" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KqeYSCqeXfv47A3uAvMD-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KqeYSCqeXfv47A3uAvMD-4" target="KqeYSCqeXfv47A3uAvMD-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KqeYSCqeXfv47A3uAvMD-4" value="AllUiTypesGlobalState.deleteTypeAction(uiTypeId)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="270" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KqeYSCqeXfv47A3uAvMD-8" value="Is type fetched? " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="130" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KqeYSCqeXfv47A3uAvMD-9" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="210" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KqeYSCqeXfv47A3uAvMD-10" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="210" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KqeYSCqeXfv47A3uAvMD-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KqeYSCqeXfv47A3uAvMD-12" target="KqeYSCqeXfv47A3uAvMD-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KqeYSCqeXfv47A3uAvMD-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KqeYSCqeXfv47A3uAvMD-12" target="KqeYSCqeXfv47A3uAvMD-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KqeYSCqeXfv47A3uAvMD-12" value="UiTypeWorker.deleteType" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="269" y="390" width="281" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KqeYSCqeXfv47A3uAvMD-15" value="&lt;div align=&quot;left&quot;&gt;* Ensure that type is defined in current tag &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;* Throw error if type exists but not defined in current tag&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;* Move type to &quot;deleted&quot; slice in cache&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="286.25" y="410" width="253.75" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KqeYSCqeXfv47A3uAvMD-16" value="&lt;div&gt;AllUiTypesGlobalState.typeDeleteEpic&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="640" width="290" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="KqeYSCqeXfv47A3uAvMD-19" value="Success" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="580" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KqeYSCqeXfv47A3uAvMD-21" value="Epic will call" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="350" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KqeYSCqeXfv47A3uAvMD-22" value="&lt;div&gt;* dispatch action to move UiTypeState from allUiTypes =&amp;gt; deletedUiTypes slice&lt;/div&gt;&lt;div&gt;* dispatch action to clear mixinDependencyMap entry for the type&lt;/div&gt;&lt;div&gt;* dispatch &#39;EDITED_TYPE&#39; action with cause DELETE and data of the mixinDependencyMap entry (prior to its removal)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="100" y="670" width="270" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="KqeYSCqeXfv47A3uAvMD-23" value="Display/catch error" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="500" y="639" width="130" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="KqeYSCqeXfv47A3uAvMD-25" value="Error" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="580" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
