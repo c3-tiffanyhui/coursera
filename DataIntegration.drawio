@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-08-25T21:50:11.715Z" agent="5.0 (Macintosh)" version="14.9.9" etag="ZRVLLBeUY0z9tV1CN3ff" type="github"><diagram id="pvR70iSJ0H7R-v6CIDdV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-26T18:17:42.982Z" agent="5.0 (Macintosh)" etag="j-rAak9njyrPDVHu1nHS" version="14.9.9" type="github">
+  <diagram id="pvR70iSJ0H7R-v6CIDdV" name="Page-1">
+    <mxGraphModel dx="1812" dy="1018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1ysjTi8co_--tbsCxDWm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1ysjTi8co_--tbsCxDWm-1" target="1ysjTi8co_--tbsCxDWm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1ysjTi8co_--tbsCxDWm-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1ysjTi8co_--tbsCxDWm-1" target="1ysjTi8co_--tbsCxDWm-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1ysjTi8co_--tbsCxDWm-1" value="A SourceSystem" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1ysjTi8co_--tbsCxDWm-2" value="SourceCollection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1ysjTi8co_--tbsCxDWm-3" value="SourceCollection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1ysjTi8co_--tbsCxDWm-7" value="&lt;div align=&quot;left&quot;&gt;SourceCollection describes a collection of data sources. Each SourceCollection corresponds with a Source that informs how to serialize an item in the SourceCollection. &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Ex: FileSourceCollection has an inboxUrl which points to a folder, s3 bucket, Azure container. Each of the files in this inboxUrl will be serialized based on the associated Source&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Ex: &lt;code&gt;&lt;font face=&quot;Helvetica&quot;&gt;SqlSourceCollection is a table in a SQL data source (database&lt;/font&gt;)&lt;br&gt;&lt;/code&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="50" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1ysjTi8co_--tbsCxDWm-8" value="Canonical Types are comprised of two parts:&lt;br&gt;&lt;div&gt;* The canonical Type definition, and&lt;/div&gt;&lt;div&gt;* One or more transformation Types.&lt;/div&gt;&lt;p&gt;The canonical Type definition defines the interface used for &lt;br&gt;integration, and the transformation Type is responsible to transforming &lt;br&gt;the canonical Type to a corresponding C3 AI Suite Type.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="390" width="395" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
