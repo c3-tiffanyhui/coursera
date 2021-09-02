@@ -1,13 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-09-01T22:47:26.874Z" agent="5.0 (Macintosh)" etag="gikSzqRMYP7t4Pc2ATVT" version="15.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-02T04:10:54.382Z" agent="5.0 (Macintosh)" etag="uGmy9wd4VJijmvX1ZTAp" version="15.0.2" type="github">
   <diagram id="pvR70iSJ0H7R-v6CIDdV" name="Page-1">
     <mxGraphModel dx="934" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1ysjTi8co_--tbsCxDWm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1ysjTi8co_--tbsCxDWm-1" target="1ysjTi8co_--tbsCxDWm-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1ysjTi8co_--tbsCxDWm-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1ysjTi8co_--tbsCxDWm-1" target="1ysjTi8co_--tbsCxDWm-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1ysjTi8co_--tbsCxDWm-1" value="A SourceSystem" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -17,19 +14,39 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1ysjTi8co_--tbsCxDWm-2" value="SourceCollection" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="210" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1ysjTi8co_--tbsCxDWm-3" value="SourceCollection" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1ysjTi8co_--tbsCxDWm-7" value="&lt;div align=&quot;left&quot;&gt;SourceCollection describes a collection of data sources. Each SourceCollection corresponds with a Source that informs how to serialize an item in the SourceCollection. &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Ex: FileSourceCollection has an inboxUrl which points to a folder, s3 bucket, Azure container. Each of the files in this inboxUrl will be serialized based on the associated Source&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Ex: &lt;code&gt;&lt;font face=&quot;Helvetica&quot;&gt;SqlSourceCollection is a table in a SQL data source (database&lt;/font&gt;)&lt;br&gt;&lt;/code&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="180" y="20" width="370" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1ysjTi8co_--tbsCxDWm-8" value="Canonical Types are comprised of two parts:&lt;br&gt;&lt;div&gt;* The canonical Type definition, and&lt;/div&gt;&lt;div&gt;* One or more transformation Types.&lt;/div&gt;&lt;p&gt;The canonical Type definition defines the interface used for &lt;br&gt;integration, and the transformation Type is responsible to transforming &lt;br&gt;the canonical Type to a corresponding C3 AI Suite Type.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="270" y="390" width="395" height="130" as="geometry" />
+        <mxCell id="1ysjTi8co_--tbsCxDWm-8" value="Canonical Types are comprised of two parts:&lt;br&gt;&lt;div&gt;* The canonical Type definition, and&lt;/div&gt;&lt;div&gt;* One or more transformation Types.&lt;/div&gt;&lt;p&gt;The canonical Type definition defines the interface used for &lt;br&gt;integration - the fields match those of the excected SourceFiles from the SourceCollection, &lt;br&gt;&lt;/p&gt;&lt;p&gt;The transformation Type is responsible to transforming &lt;br&gt;the canonical Type to a corresponding C3 AI Suite Type.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="240" y="520" width="395" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="PUcVz5PIOkl4JO5Sf_en-1" value="Source" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="PUcVz5PIOkl4JO5Sf_en-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PUcVz5PIOkl4JO5Sf_en-1" target="PUcVz5PIOkl4JO5Sf_en-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUcVz5PIOkl4JO5Sf_en-1" value="Source&lt;br&gt;OR&lt;br&gt;Canonical (mixes Source)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="260" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PUcVz5PIOkl4JO5Sf_en-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PUcVz5PIOkl4JO5Sf_en-3" target="PUcVz5PIOkl4JO5Sf_en-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUcVz5PIOkl4JO5Sf_en-3" value="Transform " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PUcVz5PIOkl4JO5Sf_en-9" value="Persistable&lt;br&gt;OR" style="whiteSpace=wrap;html=1;rounded=0;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="770" y="227.5" width="130" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="PUcVz5PIOkl4JO5Sf_en-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PUcVz5PIOkl4JO5Sf_en-21" target="PUcVz5PIOkl4JO5Sf_en-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="835" y="380" />
+              <mxPoint x="485" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PUcVz5PIOkl4JO5Sf_en-21" value="Canonical&lt;br&gt;OR&lt;br&gt;Source" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="790" y="267.5" width="90" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
