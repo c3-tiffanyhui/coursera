@@ -1,61 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2021-12-13T23:08:46.207Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="T2oi1a1eq8NRFbEfbGyx" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-15T17:35:31.349Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="QSZVxgMxFYwE_PXTXtHS" version="15.9.4" type="github">
   <diagram id="98Fgy_vY8vBvvW7fFI1X" name="Page-1">
-    <mxGraphModel dx="1921" dy="2345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="1702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Hl1lPG2P-sdQ_9F0dH6l-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Hl1lPG2P-sdQ_9F0dH6l-3" target="Hl1lPG2P-sdQ_9F0dH6l-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1160" y="-565" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Hl1lPG2P-sdQ_9F0dH6l-17" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Hl1lPG2P-sdQ_9F0dH6l-3" target="Hl1lPG2P-sdQ_9F0dH6l-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1160" y="-565" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Hl1lPG2P-sdQ_9F0dH6l-18" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Hl1lPG2P-sdQ_9F0dH6l-3" target="Hl1lPG2P-sdQ_9F0dH6l-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1160" y="-565" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Hl1lPG2P-sdQ_9F0dH6l-19" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Hl1lPG2P-sdQ_9F0dH6l-3" target="Hl1lPG2P-sdQ_9F0dH6l-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1160" y="-565" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Hl1lPG2P-sdQ_9F0dH6l-3" value="&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;&lt;span style=&quot;color: #ce9178&quot;&gt;UpdateSourceSystemSidePanelForSelectedNode.&lt;br&gt;UPDATE_SELECTED_SOURCE_SYSTEM_SIDE_PANEL&lt;br&gt;&lt;br&gt;include nodeId and sourceSystemId&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="15" y="25" width="360" height="90" as="geometry" />
+        <mxCell id="Hl1lPG2P-sdQ_9F0dH6l-3" value="&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;&lt;span style=&quot;color: #ce9178&quot;&gt;UpdateSourceSystemSidePanelForNode.UPDATE&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: #ce9178&quot;&gt;&lt;br&gt;include nodeId and sourceSystemId&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="975" y="-680" width="360" height="90" as="geometry" />
         </mxCell>
         <mxCell id="G4Po4nBObU2VLpRts9lN-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FFC8B0;strokeColor=#A680B8;" edge="1" parent="1" source="Hl1lPG2P-sdQ_9F0dH6l-6" target="G4Po4nBObU2VLpRts9lN-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hl1lPG2P-sdQ_9F0dH6l-6" value="SidePanel.OPEN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="240" y="-130" width="120" height="60" as="geometry" />
+          <mxGeometry x="1205" y="-810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hl1lPG2P-sdQ_9F0dH6l-8" value="&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;&lt;span style=&quot;color: #ce9178&quot;&gt;SidePanelFormEpic&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#FF3333;strokeWidth=5;" parent="1" vertex="1">
-          <mxGeometry x="55" y="210" width="170" height="60" as="geometry" />
+          <mxGeometry x="1020" y="-470" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hl1lPG2P-sdQ_9F0dH6l-9" value="&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;&lt;div style=&quot;font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;&lt;span style=&quot;color: #ce9178&quot;&gt;SidePanelButtonsEpic&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#FF3333;strokeWidth=5;" parent="1" vertex="1">
-          <mxGeometry x="240" y="210" width="170" height="60" as="geometry" />
+          <mxGeometry x="1205" y="-470" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hl1lPG2P-sdQ_9F0dH6l-11" value="&lt;div style=&quot;background-color: rgb(30 , 30 , 30) ; line-height: 18px&quot;&gt;&lt;div style=&quot;line-height: 18px&quot;&gt;&lt;font color=&quot;#ce9178&quot; face=&quot;menlo, monaco, courier new, monospace&quot;&gt;SidePanelSubtitleEpic&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#FF3333;strokeWidth=5;" parent="1" vertex="1">
-          <mxGeometry x="425" y="210" width="170" height="60" as="geometry" />
+          <mxGeometry x="1390" y="-470" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hl1lPG2P-sdQ_9F0dH6l-15" value="&lt;div style=&quot;background-color: rgb(30 , 30 , 30) ; line-height: 18px&quot;&gt;&lt;div style=&quot;line-height: 18px&quot;&gt;&lt;font color=&quot;#ce9178&quot; face=&quot;menlo, monaco, courier new, monospace&quot;&gt;UpdateFilesDatasetContentInSidePanelEpic&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#FF3333;strokeWidth=5;" parent="1" vertex="1">
-          <mxGeometry x="610" y="210" width="300" height="60" as="geometry" />
+          <mxGeometry x="1575" y="-470" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G4Po4nBObU2VLpRts9lN-63" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FFC8B0;strokeColor=#A680B8;" edge="1" parent="1" source="Hl1lPG2P-sdQ_9F0dH6l-20" target="G4Po4nBObU2VLpRts9lN-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hl1lPG2P-sdQ_9F0dH6l-20" value="FetchSourceSystem" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="80" y="-130" width="120" height="60" as="geometry" />
+          <mxGeometry x="1045" y="-810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G4Po4nBObU2VLpRts9lN-47" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#FFC8B0;strokeColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hl1lPG2P-sdQ_9F0dH6l-24" target="G4Po4nBObU2VLpRts9lN-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hl1lPG2P-sdQ_9F0dH6l-24" value="&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;&lt;span style=&quot;color: #ce9178&quot;&gt;PaginationComponent.NEXT_SELECT&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="370" y="-240" width="250" height="60" as="geometry" />
+          <mxGeometry x="1335" y="-920" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G4Po4nBObU2VLpRts9lN-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#FFC8B0;strokeColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hl1lPG2P-sdQ_9F0dH6l-25" target="G4Po4nBObU2VLpRts9lN-45">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="810" y="10" as="targetPoint" />
+            <mxPoint x="1775" y="-670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Hl1lPG2P-sdQ_9F0dH6l-25" value="&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;&lt;span style=&quot;color: #ce9178&quot;&gt;PaginationComponent.BACK_SELECT&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="657.5" y="-240" width="250" height="60" as="geometry" />
+          <mxGeometry x="1622.5" y="-920" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hl1lPG2P-sdQ_9F0dH6l-26" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Hl1lPG2P-sdQ_9F0dH6l-24" target="Hl1lPG2P-sdQ_9F0dH6l-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -151,6 +159,9 @@
         <mxCell id="2Yz-atDgkZcWUU1kS4eH-38" value="uploadFilesAction (on GroupedFilesDatasetList) - why - make on a generic epic/action - put on GlobalCanvasSharedState" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=1;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="760" y="1210" width="230" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="G4Po4nBObU2VLpRts9lN-100" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Tahoma;fontSize=24;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="2Yz-atDgkZcWUU1kS4eH-41" target="G4Po4nBObU2VLpRts9lN-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2Yz-atDgkZcWUU1kS4eH-41" value="MultipartUploadEpic" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="815" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
@@ -203,7 +214,7 @@
           <mxGeometry x="1558.75" y="540" width="390" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2Yz-atDgkZcWUU1kS4eH-63" value="&lt;b&gt;Edit Source in SidePanel&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="67.5" y="1670" width="230" height="30" as="geometry" />
+          <mxGeometry x="72.5" y="1790" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2Yz-atDgkZcWUU1kS4eH-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="2Yz-atDgkZcWUU1kS4eH-64" target="2Yz-atDgkZcWUU1kS4eH-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -215,22 +226,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2Yz-atDgkZcWUU1kS4eH-64" value="UpdateSourceInAllUiTypeStateEpic&lt;br&gt;read from form data source&lt;br&gt;make sure form is given the entire sourceCollection" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#FF3333;strokeWidth=5;" parent="1" vertex="1">
-          <mxGeometry x="345" y="1800" width="265" height="80" as="geometry" />
+          <mxGeometry x="350" y="1920" width="265" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2Yz-atDgkZcWUU1kS4eH-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="2Yz-atDgkZcWUU1kS4eH-65" target="2Yz-atDgkZcWUU1kS4eH-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2Yz-atDgkZcWUU1kS4eH-65" value="form.INPUT_CHANGE" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;" parent="1" vertex="1">
-          <mxGeometry x="87.5" y="1810" width="220" height="60" as="geometry" />
+          <mxGeometry x="92.5" y="1930" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2Yz-atDgkZcWUU1kS4eH-67" value="addFieldAction" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;" parent="1" vertex="1">
-          <mxGeometry x="687.5" y="1910" width="220" height="60" as="geometry" />
+          <mxGeometry x="692.5" y="2030" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2Yz-atDgkZcWUU1kS4eH-68" value="removeFieldAction" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;" parent="1" vertex="1">
-          <mxGeometry x="690" y="1810" width="220" height="60" as="geometry" />
+          <mxGeometry x="695" y="1930" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2Yz-atDgkZcWUU1kS4eH-69" value="setSourceOnSourceCollectionAction" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;" parent="1" vertex="1">
-          <mxGeometry x="687.5" y="1710" width="220" height="60" as="geometry" />
+          <mxGeometry x="692.5" y="1830" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G4Po4nBObU2VLpRts9lN-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="2Yz-atDgkZcWUU1kS4eH-74" target="2Yz-atDgkZcWUU1kS4eH-75">
           <mxGeometry relative="1" as="geometry" />
@@ -284,25 +295,25 @@
           <mxGeometry x="1520" y="970" width="162.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G4Po4nBObU2VLpRts9lN-43" value="Since these flows are directly related to updating the side panel / form - it is fine that they rely on selectedNode but since they largely flow through one epic, just make that one aware of selected node - means we have to introduce another action/epic&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="345" y="-340" width="250" height="100" as="geometry" />
+          <mxGeometry x="1045" y="-940" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="G4Po4nBObU2VLpRts9lN-55" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFC8B0;strokeColor=#000000;" edge="1" parent="1" source="G4Po4nBObU2VLpRts9lN-45" target="G4Po4nBObU2VLpRts9lN-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G4Po4nBObU2VLpRts9lN-45" value="&lt;div style=&quot;background-color: rgb(30 , 30 , 30) ; line-height: 18px&quot;&gt;&lt;div style=&quot;line-height: 18px&quot;&gt;&lt;span style=&quot;color: rgb(255 , 200 , 176)&quot;&gt;UpdateSourceSystemNodeEpic&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="510" y="-130" width="325" height="60" as="geometry" />
+          <mxGeometry x="1475" y="-810" width="325" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G4Po4nBObU2VLpRts9lN-56" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFC8B0;strokeColor=#000000;" edge="1" parent="1" source="G4Po4nBObU2VLpRts9lN-54" target="Hl1lPG2P-sdQ_9F0dH6l-3">
+        <mxCell id="G4Po4nBObU2VLpRts9lN-94" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="G4Po4nBObU2VLpRts9lN-54" target="Hl1lPG2P-sdQ_9F0dH6l-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G4Po4nBObU2VLpRts9lN-54" value="expose updateSourceSystemSidePanelForSelectedNodeAction()&lt;br&gt;&lt;br&gt;UpdateSourceSystemSidePanelForSelectedNode&lt;br&gt;dispatch action for all others to have selected node" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;strokeWidth=5;fillColor=#e1d5e7;" vertex="1" parent="1">
-          <mxGeometry x="499" y="-25" width="347" height="95" as="geometry" />
+          <mxGeometry x="1464" y="-705" width="347" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="G4Po4nBObU2VLpRts9lN-64" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: menlo, monaco, &amp;quot;courier new&amp;quot;, monospace; font-weight: normal; font-size: 12px; line-height: 18px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #ce9178&quot;&gt;UpdateFilesDatasetContentInSidePanelEpic&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#FFC8B0;" vertex="1" parent="1">
-          <mxGeometry x="920" y="595" width="310" height="30" as="geometry" />
+        <mxCell id="G4Po4nBObU2VLpRts9lN-64" value="&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-weight: normal ; font-size: 12px ; line-height: 18px&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #ce9178&quot;&gt;UpdateFilesDatasetContentInSidePanelEpic&lt;br&gt;receives sourceSystemId from other action (&lt;/span&gt;&lt;span style=&quot;color: rgb(206 , 145 , 120) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace&quot;&gt;UpdateSourceSystemSidePanelForNode.UPDATE)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="681.25" y="1580" width="387.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="G4Po4nBObU2VLpRts9lN-65" value="Original" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="270" y="-980" width="60" height="30" as="geometry" />
+        <mxCell id="G4Po4nBObU2VLpRts9lN-65" value="Original - Click SourceSystem" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-980" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G4Po4nBObU2VLpRts9lN-67" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="G4Po4nBObU2VLpRts9lN-71" target="G4Po4nBObU2VLpRts9lN-76">
           <mxGeometry relative="1" as="geometry" />
@@ -365,6 +376,21 @@
         </mxCell>
         <mxCell id="G4Po4nBObU2VLpRts9lN-86" value="&lt;div style=&quot;background-color: rgb(30 , 30 , 30) ; line-height: 18px&quot;&gt;&lt;div style=&quot;line-height: 18px&quot;&gt;&lt;span style=&quot;color: rgb(255 , 200 , 176)&quot;&gt;UpdateSourceSystemNodeEpic&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="517.5" y="-810" width="325" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G4Po4nBObU2VLpRts9lN-93" value="New - Click Source System" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="-1010" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G4Po4nBObU2VLpRts9lN-102" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=24;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="G4Po4nBObU2VLpRts9lN-98" target="G4Po4nBObU2VLpRts9lN-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G4Po4nBObU2VLpRts9lN-98" value="UpdateSourceCollectionUiStateFromFileUploadEpic&lt;br&gt;MultipartUploadEpic needs to have context or need to FIND fileToUpload and determine from there" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#FF3333;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="715" y="1470" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G4Po4nBObU2VLpRts9lN-101" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;fontSize=24;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="G4Po4nBObU2VLpRts9lN-99" target="G4Po4nBObU2VLpRts9lN-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G4Po4nBObU2VLpRts9lN-99" value="MultipartUploadEpic.FILE_TO_UPLOAD_UPDATE" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=1;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="712.5" y="1380" width="325" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
